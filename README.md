@@ -22,4 +22,5 @@ This project, completed as part of the New Jersey Wind Institute Fellowship, foc
 - Gearbox temperature  
 - Generator power output  
 
+Poster was presented at the Clean and Sustainable Energy Submit 2025 at Monclair State University
 
